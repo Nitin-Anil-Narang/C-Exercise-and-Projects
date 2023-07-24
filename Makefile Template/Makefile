@@ -1,7 +1,7 @@
 CC=gcc
 INCDIRS=-I.
 OPT=-O0
-CFLAGS=-Wall -Wextra -g $(INCDIRS) $(OPT)
+CFLAGS=-Wall -Wextra -g $(INCDIRS) $(OPT) -std=c99
 
 CFILES=main.c
 OBJECTS=main.o
