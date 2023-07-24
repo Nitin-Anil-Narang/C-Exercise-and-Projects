@@ -1,4 +1,4 @@
-### Exercise 2.02
+### Exercise 2
 Consider the following program:
 ```c
 #include <stdio.h>
